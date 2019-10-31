@@ -15,7 +15,7 @@ To solve the environment, the paddles must  average score of +0.5 over 100 conse
 
 ### Solution
 
-We use the [PPO](https://arxiv.org/abs/1707.06347) (PPO) reinforcement learning algorithm to solve the environment.
+We use the [Proximal Policy Optimization](https://arxiv.org/abs/1707.06347) (PPO) deep reinforcement learning algorithm to solve the environment.
 
 ### Try it yourself!
 
